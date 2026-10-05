@@ -1,0 +1,6 @@
+{
+  "name": "MMKART",
+  "description": "MMKART.COM - Premium electronics marketplace for branded smartphones, laptops, smartwatches, audio, TVs, and accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
